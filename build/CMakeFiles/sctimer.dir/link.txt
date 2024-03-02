@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/sctimer.dir/src/main.c.o CMakeFiles/sctimer.dir/src/timer.c.o -o sctimer  -lcurses -lform 
