@@ -1,9 +1,6 @@
 #ifndef TIMER_H
 #define TIMER_H
 
-#include <curses.h>
-#include <unistd.h>
-
 #define MAX_TIME_INPUT (359999)
 
 enum EXIT_CODES {
